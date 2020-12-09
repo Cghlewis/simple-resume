@@ -1,2 +1,1 @@
-# simple-resume
-simplified version of resume using vitae package
+Simplified version of resume using vitae package: https://github.com/mitchelloharawild/vitae
