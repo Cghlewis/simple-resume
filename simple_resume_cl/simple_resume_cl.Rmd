@@ -1,0 +1,93 @@
+---
+name: Crystal Lewis
+email: "cgh.lewis@gmail.com"
+twitter: Cghlewis
+github: Cghlewis
+linkedin: crystal-lewis
+tableau: crystal.lewis
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+#
+
+\begin {center}
+I am an education researcher with over ten years' experience in project coordination and supervision, as well as data management, analysis, and reporting. I am happiest working at the intersection of K-12 education research and data management, helping researchers and practitioners obtain insights that improve student outcomes through harmonized, reliable, and documented data. I am also passionate about helping others organize their data and reporting through reproducible workflows.
+\end{center}
+
+# Technical Skills
+
+R, SPSS, Qualtrics, Stata, Microsoft Access, Quick Base, SQL, Git and GitHub, Tableau, SAS
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where, ~details,
+  "Master of Public Policy", "2009-2011", "University of Minnesota", "Minneapolis, MN", "Concentration: Advanced Policy Analysis",
+  "Bachelor of Social Work", "2001-2005", "University of Missouri", "Columbia, MO", "Concentration: Research Methods"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where, details)
+```
+
+# Experience
+```{r}
+tribble(
+  ~ role, ~ company, ~ loc, ~ dates, ~ details,
+  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Present", "Strategize data management plans for over ten actively funded projects and oversee their implementation.",
+    "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Present", "Merge, clean, manipulate, query, and document data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
+  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Present","Analyze data for publications and build reports and dashboards for partners.",
+    "Director of Research Implementation","" ,"" , "Jul 2016-May 2019","Supervised successful completion of data collection activities for six federally funded randomized controlled trial studies and two county funded projects.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019",
+  "Delivered quarterly trainings to staff on data collection methods.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019", "Designed Qualtrics surveys and Access tracking databases.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Coordinated two Institute of Education Sciences funded randomized controlled trial studies.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Collected data in schools through classroom observations, surveys, and assessments.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Established trusting relationships with school district partners.", "Evaluation and Outcomes Manager", "Big Brothers Big Sisters of Eastern Missouri", "St. Louis, MO", "Jun 2011 - Aug 2013", "Oversaw the collection, analysis, and dissemination of data relating to performance management, outcomes, and customer satisfaction.",
+"Research Assistant", "Center for Advanced Studies in Child Welfare", "University of Minnesota", "Jan 2010 - Jul 2011", "Evaluated the effectiveness of the Hennepin County Attorney's Office truancy intervention program using qualitative and quantitative methods.", "Teaching Assistant", "Humphrey School of Public Affairs", "University of Minnesota", "Aug 2010 - Dec 2010", "Taught lab sessions of a graduate level introductory statistics course using Stata.", "Graduate Assistant", "Hennepin-University Partnership", "University of Minnesota", "Sep 2009 - May 2010", "Connected County officials with University faculty to develop effective partnerships to improve the community."
+ ) %>% 
+  detailed_entries(role, dates, company, loc, details)
+```
+
+# Service
+
+```{r}
+library(tibble)
+tribble(
+   ~ role, ~ company, ~ loc, ~ dates, ~ details,
+  "Co-organizer", "R-Ladies St. Louis", "St. Louis, MO", "Aug 2020 - Present", "Organize and host monthly workshops",
+  "Teaching Assistant", "LaunchCode", "St. Louis, MO", "Jan 2018 - July 2018", "Developed curriculum and taught data analysis once a week for a cohort of 25 women looking to make a career transition.",
+  "Team Lead", "AmeriCorps St. Louis Education Team", "St. Louis, MO", "Aug 2007 - Aug 2008", "Tutored elementary students, led educational programming, and supervised a team of three tutors"
+) %>% 
+  detailed_entries(role, dates, company, loc, details)
+```
+
+
+# Publications
+
+Henry, L., Reinke, W.M., Herman, K.C., Thompson, A.M. & Lewis, C.G. (2020) Motivational 
+interviewing with at-risk students (MARS) mentoring: Addressing the unique mental health needs of students in alternative school placements, School Psychology Review, https://doi.org/10.1080/2372966X.2020.1827679
+
+Huang, F., Lewis, C., Cohen, D., Prewett, S., & Herman, K. (2018). Bullying involvement, 
+teacher-student relationships, and psychosocial outcomes. School Psychology Quarterly, 33(2), 223-234. https://doi.org/10.1037/spq0000249
+
+Lewis, C.G., Herman, K.C., Huang, F.L., Stormont, M., Grossman, C., Eddy, C., & Reinke, 
+W.M. (2017). The utility of single-item readiness screeners in middle school. Journal of School Psychology. 64, 1–16. https://doi.org/10.1016/j.jsp.2017.04.003
+
+Larson, A., Singh, S. & Lewis, C. (2011). Sanctions and Education Outcomes for Children in TANF 
+Families, Child and Youth Services, 32:3, 180-199.
+
+
+# Presentations
+
+Lewis, C. (2020). Data Management in Large-Scale Education Research: Documentation. Workshop given 
+for Missouri Prevention Science Institute, University of Missouri, Columbia, MO.
+
+Lewis, C. (2019). Cleaning Messy Data in R. Presented at R-Ladies St. Louis Meetup, Washington 
+University in St. Louis.
+
+Lewis, C. (2019). Introduction to R. Guest lecture for LaunchCode CoderGirl Data Analysis track, St. Louis, MO.
+
+Lewis, C. (2018). Survey Says: You can use Tableau to Impact School Climate. Presented at Tableau Fringe Festival APAC, Online.
+
