@@ -22,7 +22,7 @@ I am an education researcher with over ten years' experience in project coordina
 
 # Technical Skills
 
-R, SPSS, Qualtrics, Stata, Microsoft Access, Quick Base, SQL, Git and GitHub, Tableau, SAS
+R, SPSS, Qualtrics, Stata, Microsoft Access, Quick Base, SQL, Git and GitHub, Tableau, SAS, SharePoint
 
 # Education
 
@@ -81,8 +81,8 @@ Families, Child and Youth Services, 32:3, 180-199.
 
 # Presentations
 
-Lewis, C. (2020). Data Management in Large-Scale Education Research: Documentation. Workshop given 
-for Missouri Prevention Science Institute, University of Missouri, Columbia, MO.
+Lewis, C. (2021). Data Management in Large-Scale Education Research. Series of workshops given 
+for Missouri Prevention Science Institute, University of Missouri, Columbia, MO. 
 
 Lewis, C. (2019). Cleaning Messy Data in R. Presented at R-Ladies St. Louis Meetup, Washington 
 University in St. Louis.
