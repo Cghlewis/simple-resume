@@ -40,11 +40,16 @@ tribble(
 ```{r}
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
-  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Present", "Strategize data management plans for over ten actively funded projects and oversee their implementation.",
-    "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Present", "Merge, clean, manipulate, query, and document data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
-  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Present","Analyze data for publications and build reports and dashboards for partners.",
+  "Data Management Consultant", "Freelance", "Remote", "Mar 2022 - Present", "Providing research data management consulting, training, and data wrangling services to improve organizational workflows.",
+  "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022", "Built example client facing crm dashboard in R flexdashboard to be used to publicize services. Currently featured on Streamline’s website.",
+    "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Ingested data sources to build an internal metric tracking R
+flexdashboard that is automated through Google Cloud Platform to update daily. The dashboard is used regularly by the sales team.",
+    "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Built google trends R flexdashboard to show capabilities of automatic updating data.",
+  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Strategized data management plans for over ten actively funded projects and oversee their implementation.",
+    "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Merged, cleaned, manipulated, queried, and documented data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
+  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021","Built reports, dashboards, and visualizations for dissemination of data.",
     "Director of Research Implementation","" ,"" , "Jul 2016-May 2019","Supervised successful completion of data collection activities for six federally funded randomized controlled trial studies and two county funded projects.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019",
-  "Delivered quarterly trainings to staff on data collection methods.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019", "Designed Qualtrics surveys and Access tracking databases.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Coordinated two Institute of Education Sciences funded randomized controlled trial studies.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Collected data in schools through classroom observations, surveys, and assessments.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Established trusting relationships with school district partners.", "Evaluation and Outcomes Manager", "Big Brothers Big Sisters of Eastern Missouri", "St. Louis, MO", "Jun 2011 - Aug 2013", "Oversaw the collection, analysis, and dissemination of data relating to performance management, outcomes, and customer satisfaction.",
+  "Delivered quarterly trainings to staff on data collection methods.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019", "Designed and built data collection tools including Qualtrics surveys and Access tracking databases.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Coordinated two Institute of Education Sciences funded randomized controlled trial studies.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Collected data in schools through classroom observations, surveys, and assessments.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Established trusting relationships with school district partners.", "Evaluation and Outcomes Manager", "Big Brothers Big Sisters of Eastern Missouri", "St. Louis, MO", "Jun 2011 - Aug 2013", "Oversaw the collection, analysis, and dissemination of data relating to performance management, outcomes, and customer satisfaction.",
 "Research Assistant", "Center for Advanced Studies in Child Welfare", "University of Minnesota", "Jan 2010 - Jul 2011", "Evaluated the effectiveness of the Hennepin County Attorney's Office truancy intervention program using qualitative and quantitative methods.", "Teaching Assistant", "Humphrey School of Public Affairs", "University of Minnesota", "Aug 2010 - Dec 2010", "Taught lab sessions of a graduate level introductory statistics course using Stata.", "Graduate Assistant", "Hennepin-University Partnership", "University of Minnesota", "Sep 2009 - May 2010", "Connected County officials with University faculty to develop effective partnerships to improve the community."
  ) %>% 
   detailed_entries(role, dates, company, loc, details)
@@ -56,6 +61,7 @@ tribble(
 library(tibble)
 tribble(
    ~ role, ~ company, ~ loc, ~ dates, ~ details,
+   "Organizer", "POWER Issues in Data Management in Education Research Hub", "Remote", "Jan 2022 - Present", "Organize and host monthly meetups and presentations on data management topics",
   "Co-organizer", "R-Ladies St. Louis", "St. Louis, MO", "Aug 2020 - Present", "Organize and host monthly workshops",
   "Teaching Assistant", "LaunchCode", "St. Louis, MO", "Jan 2018 - July 2018", "Developed curriculum and taught data analysis once a week for a cohort of 25 women looking to make a career transition.",
   "Team Lead", "AmeriCorps St. Louis Education Team", "St. Louis, MO", "Aug 2007 - Aug 2008", "Tutored elementary students, led educational programming, and supervised a team of three tutors"
@@ -63,11 +69,38 @@ tribble(
   detailed_entries(role, dates, company, loc, details)
 ```
 
+# Data Manager for the Following Grants
+
+Boone County Children Services Fund: The FACE of Boone County, PI: Aaron Thompson, (2020-2024)
+
+Institute of Education Sciences: Efficacy study of Discipline in the Secondary Classroom, PI: Carl Sumi, (2018-2023) (R305A170040) 
+
+National Institute of Justice: Evaluation of a principal training program to promote safe & civil schools, PI: Keith Herman, (2017-2021) (2016-CK-BX-0004)
+
+Institute of Education Sciences: Evaluation of a training program to promote effective school leadership, PI: Keith Herman, (2017-2022) (R305A170180)
+
+Institute of Education Sciences: Implementing a comprehensive data-based coordinated System of care for school districts to promote youth academic success and social emotional development: A 
+researcher-practitioner partnership, PI: Wendy Reinke, (2017-2019)
+
+Institute of Education Sciences: Evaluation of a self-monitoring training program for elementary school students, PI: Aaron Thompson, (2015-2019) (R305A150517)
+
+Boone County Children’s Services Fund: Boone County Mental Health Coalition County-wide Initiative to Support School-age Youth, PI: Wendy Reinke, (2014-2020).
+
+Institute of Education Sciences: The Classroom Check-Up: Supporting teachers in classroom 
+management using a web-based coaching system, PI: Wendy Reinke, (2013–2018) (R305A130375)
+
+Institute of Education Sciences: Evaluation of a classroom management training program for 
+middle school teachers, PI: Keith Herman, (2013–2018) (R305A130143)
+
+Institute of Education Sciences: Evaluation of a Video-based Modeling Program to Promote 
+Effective Teacher Classroom Management Practices, PI: Wendy Reinke, (2010-2015) (R305A100342)
 
 # Publications
 
+Cohen, D., Lewis, C.G., Eddy, C.L., Henry, L., Hodgson, C. & Huang, F.L. (2021) In-School and Out-of-School Suspension: Behavioral and Psychological Outcomes in a Predominately Black Sample of Middle School Students. School Psychology Review, DOI: 10.1080/2372966X.2020.1856628
+
 Henry, L., Reinke, W.M., Herman, K.C., Thompson, A.M. & Lewis, C.G. (2020) Motivational 
-interviewing with at-risk students (MARS) mentoring: Addressing the unique mental health needs of students in alternative school placements, School Psychology Review, Advance online publication. 
+interviewing with at-risk students (MARS) mentoring: Addressing the unique mental health needs of students in alternative school placements, School Psychology Review, 50:1, 62-74.
 
 Huang, F., Lewis, C., Cohen, D., Prewett, S., & Herman, K. (2018). Bullying involvement, 
 teacher-student relationships, and psychosocial outcomes. School Psychology Quarterly, 33(2), 223-234. 
