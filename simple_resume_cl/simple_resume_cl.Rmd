@@ -45,7 +45,7 @@ tribble(
     "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Ingested data sources to build an internal metric tracking R
 flexdashboard that is automated through Google Cloud Platform to update daily. The dashboard is used regularly by the sales team.",
     "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Built google trends R flexdashboard to show capabilities of automatic updating data.",
-  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Strategized data management plans for over ten actively funded projects and oversee their implementation.",
+  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Strategized data management plans for over ten actively funded projects and oversaw their implementation.",
     "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Merged, cleaned, manipulated, queried, and documented data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
   "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021","Built reports, dashboards, and visualizations for dissemination of data.",
     "Director of Research Implementation","" ,"" , "Jul 2016-May 2019","Supervised successful completion of data collection activities for six federally funded randomized controlled trial studies and two county funded projects.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019",
@@ -72,6 +72,8 @@ tribble(
 # Data Manager for the Following Grants
 
 Boone County Children Services Fund: The FACE of Boone County, PI: Aaron Thompson, (2020-2024)
+
+Enhancing the Capacity of Rural Schools to Identify, Prevent, and Intervene in Youth Mental Health Concerns: The National Center for Rural School Mental Health, PI: Wendy Reinke, (2019-2024) (R305C190014)
 
 Institute of Education Sciences: Efficacy study of Discipline in the Secondary Classroom, PI: Carl Sumi, (2018-2023) (R305A170040) 
 
