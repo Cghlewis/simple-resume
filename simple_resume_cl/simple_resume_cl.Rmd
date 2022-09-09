@@ -63,6 +63,7 @@ tribble(
    ~ role, ~ company, ~ loc, ~ dates, ~ details,
    "Organizer", "POWER Issues in Data Management in Education Research Hub", "Remote", "Jan 2022 - Present", "Organize and host monthly meetups and presentations on data management topics",
   "Co-organizer", "R-Ladies St. Louis", "St. Louis, MO", "Aug 2020 - Present", "Organize and host monthly workshops",
+  "Teaching Assistant", "RStudio Conference", "Washington D.C.", "July 2022", "Teaching Assitant for What They Forgot to Teach You About R Workshop",
   "Teaching Assistant", "LaunchCode", "St. Louis, MO", "Jan 2018 - July 2018", "Developed curriculum and taught data analysis once a week for a cohort of 25 women looking to make a career transition.",
   "Team Lead", "AmeriCorps St. Louis Education Team", "St. Louis, MO", "Aug 2007 - Aug 2008", "Tutored elementary students, led educational programming, and supervised a team of three tutors"
 ) %>% 
