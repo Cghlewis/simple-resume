@@ -17,7 +17,7 @@ library(vitae)
 #
 
 \begin {center}
-I am an education researcher with over ten years' experience in project coordination and supervision, as well as data management, analysis, and reporting. I am happiest working at the intersection of K-12 education research and data management, helping researchers and practitioners obtain insights that improve student outcomes through harmonized, reliable, and documented data. I am also passionate about helping others organize their data and reporting through reproducible workflows.
+I am an education researcher with experience in project coordination and supervision, as well as data management, analysis, and reporting. I am happiest working at the intersection of K-12 education research and data management, helping researchers and practitioners obtain insights that improve student outcomes through harmonized, reliable, and documented data. I am also passionate about helping others organize their data and reporting through reproducible workflows.
 \end{center}
 
 # Technical Skills
@@ -49,7 +49,7 @@ flexdashboard that is automated through Google Cloud Platform to update daily. T
     "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Merged, cleaned, manipulated, queried, and documented data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
   "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021","Built reports, dashboards, and visualizations for dissemination of data.",
     "Director of Research Implementation","" ,"" , "Jul 2016-May 2019","Supervised successful completion of data collection activities for six federally funded randomized controlled trial studies and two county funded projects.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019",
-  "Delivered quarterly trainings to staff on data collection methods.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019", "Designed and built data collection tools including Qualtrics surveys and Access tracking databases.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Coordinated two Institute of Education Sciences funded randomized controlled trial studies.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Collected data in schools through classroom observations, surveys, and assessments.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Established trusting relationships with school district partners.", "Evaluation and Outcomes Manager", "Big Brothers Big Sisters of Eastern Missouri", "St. Louis, MO", "Jun 2011 - Aug 2013", "Oversaw the collection, analysis, and dissemination of data relating to performance management, outcomes, and customer satisfaction.",
+  "Delivered quarterly trainings to staff on data collection methods.", "Director of Research Implementation","" ,"" , "Jul 2016-May 2019", "Designed and built data collection tools including Qualtrics surveys and Access tracking databases.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Coordinated two Institute of Education Sciences funded randomized controlled trial studies.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Collected data in schools through classroom observations, surveys, and assessments.", "Research Associate", "", "", "Aug 2013 - Jul 2016", "Established trusting relationships with school district partners.", "Evaluation and Outcomes Manager", "Big Brothers Big Sisters of Eastern Missouri", "St. Louis, MO", "Jun 2011 - Aug 2013", "Oversaw the collection, analysis, and dissemination of data relating to performance management, outcomes, and stakeholder satisfaction.",
 "Research Assistant", "Center for Advanced Studies in Child Welfare", "University of Minnesota", "Jan 2010 - Jul 2011", "Evaluated the effectiveness of the Hennepin County Attorney's Office truancy intervention program using qualitative and quantitative methods.", "Teaching Assistant", "Humphrey School of Public Affairs", "University of Minnesota", "Aug 2010 - Dec 2010", "Taught lab sessions of a graduate level introductory statistics course using Stata.", "Graduate Assistant", "Hennepin-University Partnership", "University of Minnesota", "Sep 2009 - May 2010", "Connected County officials with University faculty to develop effective partnerships to improve the community."
  ) %>% 
   detailed_entries(role, dates, company, loc, details)
@@ -116,6 +116,10 @@ Families, Child and Youth Services, 32:3, 180-199.
 
 
 # Presentations
+
+Lewis, C. (2022). 10 Common Data Management Mistakes. Presented for the Society for the Study of School Psychology, Early Career Foundation, Online.
+
+Lewis, C. (2022). A Comparison of Packages to Generate Codebooks in R. A lightning talk for R-Ladies NYC, Online.
 
 Lewis, C. (2021). Data Management in Large-Scale Education Research. Series of workshops given 
 for Missouri Prevention Science Institute, University of Missouri, Columbia, MO. 
