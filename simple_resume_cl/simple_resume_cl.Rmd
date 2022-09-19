@@ -41,9 +41,9 @@ tribble(
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
   "Data Management Consultant", "Freelance", "Remote", "Mar 2022 - Present", "Providing research data management consulting, training, and data wrangling services to improve organizational workflows.",
-  "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022", "Built example client facing crm dashboard in R flexdashboard to be used to publicize services. Currently featured on Streamline’s website.",
+  "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022", "Built example client facing crm dashboard in R flexdashboard to be used to publicize services.",
     "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Ingested data sources to build an internal metric tracking R
-flexdashboard that is automated through Google Cloud Platform to update daily. The dashboard is used regularly by the sales team.",
+flexdashboard that was automated through Google Cloud Platform to update daily. The dashboard was used regularly by the sales team.",
     "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Built google trends R flexdashboard to show capabilities of automatic updating data.",
   "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Strategized data management plans for over ten actively funded projects and oversaw their implementation.",
     "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Merged, cleaned, manipulated, queried, and documented data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
