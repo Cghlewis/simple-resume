@@ -3,8 +3,7 @@ name: Crystal Lewis
 email: "cgh.lewis@gmail.com"
 twitter: Cghlewis
 github: Cghlewis
-linkedin: crystal-lewis
-tableau: crystal.lewis
+www: cghlewis.com
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 ---
@@ -22,7 +21,7 @@ I am an education researcher with experience in project coordination and supervi
 
 # Technical Skills
 
-R, SPSS, Qualtrics, Stata, Microsoft Access, Quick Base, SQL, Git and GitHub, Tableau, SAS, SharePoint
+R, Qualtrics, Git and GitHub, SPSS, Microsoft Access, Stata, Quick Base, SQL, SharePoint, Tableau
 
 # Education
 
