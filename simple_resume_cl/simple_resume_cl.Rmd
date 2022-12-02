@@ -60,6 +60,7 @@ flexdashboard that was automated through Google Cloud Platform to update daily. 
 library(tibble)
 tribble(
    ~ role, ~ company, ~ loc, ~ dates, ~ details,
+   "Advisory Committee Member", "Center for Open Science Unconference on Open Scholarship Practices in Education", "Remote", "Oct 2022 - Present", "Assist in planning the 2023 event",
    "Organizer", "POWER Issues in Data Management in Education Research Hub", "Remote", "Jan 2022 - Present", "Organize and host monthly meetups and presentations on data management topics",
   "Co-organizer", "R-Ladies St. Louis", "St. Louis, MO", "Aug 2020 - Present", "Organize and host monthly workshops",
   "Teaching Assistant", "RStudio Conference", "Washington D.C.", "July 2022", "Teaching Assitant for What They Forgot to Teach You About R Workshop",
