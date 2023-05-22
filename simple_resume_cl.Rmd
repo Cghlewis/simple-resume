@@ -40,18 +40,19 @@ tribble(
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
   "Data Management Consultant", "Freelance", "Remote", "Mar 2022 - Present", "Providing research data management consulting, training, and data wrangling services to improve organizational workflows.",
-  "Data Management Consultant", "Freelance", "Remote", "Mar 2022 - Present", "Composing a draft of the book 'Data Management in Large-Scale Education Research' at https://datamgmtinedresearch.com",
+  "Data Management Consultant", "Freelance", "Remote", "Mar 2022 - Present", "Composing a draft of the book 'Data Management in Large-Scale Education Research' at https://datamgmtinedresearch.com.",
   "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022", "Created example client facing crm dashboard in R flexdashboard to demonstrate services.",
   "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Built Google Trends R flexdashboard to show capabilities of automatic updating data.",
   "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Strategized data management plans for over ten actively funded projects and oversaw their implementation.",
-    "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021","Created standard operating procedures for all data management systems and provided annual staff training on systems.",
-  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Built a team SharePoint site and oversaw migration of all files from our former system to the new site.",
-    "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Merged, cleaned, manipulated, queried, and documented data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
+    "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021","Created standard operating procedures for all data management practices and provided annual staff training on systems.",
+  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Built a secure and user-friendly team SharePoint site and oversaw migration of all files from our former system to the new site.",
+  "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Designed a streamlined internal data request system in Qualtrics, removing the burden of back and forth email exchanges.",
+    "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Merged, cleaned, transformed, queried, and documented data collected from school districts, state education agencies, surveys, assessments, and observations using R.",
     "Director of Research Implementation","" ,"" , "Jul 2016-May 2019","Supervised project staff, ensuring successful completion of data collection activities for six federally funded randomized controlled trial studies and two county funded projects.", 
   "Director of Research Implementation","", "", "Jul 2016-May 2019",
   "Delivered quarterly trainings to staff on data collection methods.", 
   "Director of Research Implementation","", "" , "Jul 2016-May 2019", "Designed and built data collection tools including Qualtrics surveys and Access tracking databases.",
-  "Director of Research Implementation", "", "", "Jul 2016-May 2019", "Build reports, dashboards, and visualizations for the dissemination of data.",
+  "Director of Research Implementation", "", "", "Jul 2016-May 2019", "Built reports, dashboards, and visualizations for the dissemination of data.",
   "Research Associate","", "", "Aug 2013 - Jul 2016", "Coordinated activities for two Institute of Education Sciences funded randomized controlled trial studies.", 
   "Research Associate", "", "", "Aug 2013 - Jul 2016", "Collected data in schools through classroom observations, surveys, and assessments.", 
   "Research Associate", "", "", "Aug 2013 - Jul 2016","Established trusting relationships with school district partners.", 
@@ -67,12 +68,12 @@ tribble(
 library(tibble)
 tribble(
    ~ role, ~ company, ~ loc, ~ dates, ~ details,
-   "Organizer", "POWER Issues in Data Management in Education Research Hub", "Remote", "Jan 2022 - Present", "Organize and host monthly meetups and presentations on data management topics",
-  "Co-organizer", "R-Ladies St. Louis", "St. Louis, MO", "Aug 2020 - Present", "Organize and host monthly workshops on programming in R",
-  "Advisory Committee Member", "Center for Open Science Unconference on Open Scholarship Practices in Education", "Remote", "Oct 2022 - Mar 2023", "Assist in planning the 2023 event",
-  "Teaching Assistant", "RStudio Conference", "Washington D.C.", "July 2022", "Teaching Assistant for What They Forgot to Teach You About R Workshop",
+   "Organizer", "POWER Issues in Data Management in Education Research Hub", "Remote", "Jan 2022 - Present", "Organize and host monthly meetups and presentations on data management topics for a group of researchers and data managers in the field of education.",
+  "Co-organizer", "R-Ladies St. Louis", "St. Louis, MO", "Aug 2020 - Present", "Organize and host monthly workshops on programming in R.",
+  "Advisory Committee Member", "Center for Open Science Unconference on Open Scholarship Practices in Education", "Remote", "Oct 2022 - Mar 2023", "Assisted in planning the 2023 event.",
+  "Teaching Assistant", "RStudio Conference", "Washington D.C.", "July 2022", "Teaching Assistant for What They Forgot to Teach You About R Workshop.",
   "Teaching Assistant", "LaunchCode", "St. Louis, MO", "Jan 2018 - July 2018", "Developed curriculum and taught data analysis once a week for a cohort of 25 women looking to make a career transition.",
-  "Team Lead", "AmeriCorps St. Louis Education Team", "St. Louis, MO", "Aug 2007 - Aug 2008", "Tutored elementary students, led educational programming, and supervised a team of three tutors"
+  "Team Lead", "AmeriCorps St. Louis Education Team", "St. Louis, MO", "Aug 2007 - Aug 2008", "Tutored elementary students, led educational programming, and supervised a team of three tutors."
 ) %>% 
   detailed_entries(role, dates, company, loc, details)
 ```
