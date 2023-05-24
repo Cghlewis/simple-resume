@@ -21,7 +21,7 @@ I am a researcher with over ten years’ experience in project coordination and 
 
 # Technical Skills
 
-R (data wrangling), RMarkdown/Quarto (reporting/slides), Qualtrics, Git and GitHub, SPSS, Microsoft Access, Stata, Quick Base, SQL, SharePoint, Tableau
+R (data wrangling), RMarkdown/Quarto (reporting), Qualtrics, Git and GitHub, SPSS, Microsoft Access, Stata, Quick Base, SQL, SharePoint, Tableau
 
 # Education
 
@@ -74,7 +74,7 @@ tribble(
   detailed_entries(role, dates, company, loc, details)
 ```
 
-# Oversaw Data Management for the Following Grants
+# Data Manager for the Following Grants
 
 Boone County Children Services Fund: The FACE of Boone County, PI: Aaron Thompson, (2020-2024)
 
@@ -120,7 +120,9 @@ W.M. (2017). The utility of single-item readiness screeners in middle school. Jo
 
 Lewis, C. (2023). Cleaning Medical Data in R. A forthcoming workshop for the R in Medicine conference June 5-9, 2023, Online.
 
-Lewis, C. (2022). Data Management Workflow for Education Research Studies. Guest lecture given to a graduate research methods class at the University of Houston-Clear Lake, Online.
+Lewis, C. (2023). Essential Data Management Best Practices and Tools for NIH Compliance Panel Discussion. Center for Open Science, Online.
+
+Lewis, C. (2022). Data Management Workflows for Education Research Studies. Guest lecture given to a graduate research methods class at the University of Houston-Clear Lake, Online.
 
 Lewis, C. (2022). 10 Common Data Management Mistakes. Presented for the Society for the Study of School Psychology, Early Career Foundation, Online.
 
