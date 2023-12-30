@@ -40,7 +40,6 @@ tribble(
 tribble(
   ~ role, ~ company, ~ loc, ~ dates, ~ details,
   "Data Management Consultant", "Freelance", "Remote", "Mar 2022 - Present", "Providing research data management consulting, training, and data wrangling services to improve organizational workflows.",
-  "Data Management Consultant", "Freelance", "Remote", "Mar 2022 - Present", "Composing a draft of the book 'Data Management in Large-Scale Education Research' at https://datamgmtinedresearch.com.",
   "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022", "Created example client facing customer relationship management dashboard in R flexdashboard to demonstrate services.",
   "Data Scientist", "Streamline Data Science", "Remote", "Nov 2021 - Mar 2022","Built Google Trends interactive R flexdashboard to show capabilities of automatic updating data.",
   "Director of Data Strategy", "Missouri Prevention Science Institute", "University of Missouri", "May 2019 - Nov 2021", "Strategized data management plans for over ten externally funded projects and oversaw their implementation.",
@@ -64,7 +63,7 @@ tribble(
 library(tibble)
 tribble(
    ~ role, ~ company, ~ loc, ~ dates, ~ details,
-   "Organizer", "POWER Issues in Data Management in Education Research Hub", "Remote", "Jan 2022 - Present", "Organize and host monthly meetups and presentations on data management topics for a group of researchers and data managers in the field of education.",
+   "Co-organizer", "POWER Issues in Data Management in Education Research Hub", "Remote", "Jan 2022 - Present", "Organize and host monthly meetups and presentations on data management topics for a group of researchers and data managers in the field of education.",
   "Co-organizer", "R-Ladies St. Louis", "St. Louis, MO", "Aug 2020 - Present", "Organize and host monthly workshops on programming in R.",
   "Advisory Committee Member", "Center for Open Science Unconference on Open Scholarship Practices in Education", "Remote", "Oct 2022 - Mar 2023", "Assisted in planning the 2023 event.",
   "Teaching Assistant", "RStudio Conference", "Washington D.C.", "July 2022", "Teaching Assistant for What They Forgot to Teach You About R Workshop.",
@@ -104,6 +103,8 @@ Effective Teacher Classroom Management Practices, PI: Wendy Reinke, (2010-2015) 
 
 # Publications
 
+Lewis, C. (2024). Data Management in Large-Scale Education Research. CRC Press.
+
 Cohen, D., Lewis, C.G., Eddy, C.L., Henry, L., Hodgson, C. & Huang, F.L. (2021) In-school and out-of-school suspension: Behavioral and psychological outcomes in a predominately black sample of middle school students. School Psychology Review, School Psychology Review, 52:1, 1-14.
 
 Henry, L., Reinke, W.M., Herman, K.C., Thompson, A.M. & Lewis, C.G. (2020) Motivational 
@@ -118,7 +119,11 @@ W.M. (2017). The utility of single-item readiness screeners in middle school. Jo
 
 # Presentations
 
-Lewis, C. (2023). Cleaning Medical Data in R. A forthcoming workshop for the R in Medicine conference June 5-9, 2023, Online.
+Lewis, C. (2024). Data Cleaning for Data Sharing in R. Upcoming invited training for NCME Annual Meeting, Philadelphia, PA. 
+
+Lewis, C. (2023). 10 Common Data Management Mistakes. Data Week, Alaska Region of Fish and Wildlife Service, Online. 
+
+Lewis, C. (2023). Cleaning Medical Data in R. R in Medicine conference June 5-9, 2023, Online.
 
 Lewis, C. (2023). Essential Data Management Best Practices and Tools for NIH Compliance Panel Discussion. Center for Open Science, Online.
 
