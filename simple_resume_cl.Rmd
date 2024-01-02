@@ -123,11 +123,13 @@ Lewis, C. (2024). Data Cleaning for Data Sharing in R. Upcoming invited training
 
 Lewis, C. (2023). 10 Common Data Management Mistakes. Data Week, Alaska Region of Fish and Wildlife Service, Online. 
 
-Lewis, C. (2023). Cleaning Medical Data in R. R in Medicine conference June 5-9, 2023, Online.
+Lewis, C. (2023). Cleaning Medical Data in R. R/Medicine Conference, Online.
 
 Lewis, C. (2023). Essential Data Management Best Practices and Tools for NIH Compliance Panel Discussion. Center for Open Science, Online.
 
 Lewis, C. (2022). Data Management Workflows for Education Research Studies. Guest lecture given to a graduate research methods class at the University of Houston-Clear Lake, Online.
+
+Lewis, C. (2022). 10 Common Data Management Mistakes. Presented for the University of Washington, SMART Center, Online. 
 
 Lewis, C. (2022). 10 Common Data Management Mistakes. Presented for the Society for the Study of School Psychology, Early Career Foundation, Online.
 
