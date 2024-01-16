@@ -21,7 +21,7 @@ I am a researcher with over ten years’ experience in project coordination and 
 
 # Technical Skills
 
-R (data wrangling), RMarkdown/Quarto (reporting), Qualtrics, Git and GitHub, SPSS, Microsoft Access, Stata, Quick Base, SQL, SharePoint, Tableau
+R (data wrangling), R Markdown/Quarto (reporting), Qualtrics, Git and GitHub, SPSS, Microsoft Access, REDCap, FileMaker, Stata, Quick Base, SQL, SharePoint, Tableau
 
 # Education
 
