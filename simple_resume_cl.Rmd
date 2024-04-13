@@ -119,7 +119,7 @@ W.M. (2017). The utility of single-item readiness screeners in middle school. Jo
 
 # Presentations
 
-Lewis, C. (2024). Data Cleaning for Data Sharing in R. Upcoming invited training for NCME Annual Meeting, Philadelphia, PA. 
+Lewis, C. (2024). Data Cleaning for Data Sharing Using R. Invited training for NCME Annual Meeting, Philadelphia, PA. 
 
 Lewis, C. (2023). 10 Common Data Management Mistakes. Data Week, Alaska Region of Fish and Wildlife Service, Online. 
 
