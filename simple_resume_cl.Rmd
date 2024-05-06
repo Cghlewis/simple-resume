@@ -16,7 +16,7 @@ library(vitae)
 #
 
 \begin {center}
-I am a researcher with over ten years’ experience in project coordination and supervision, as well as data management, analysis, and reporting. I am happiest working at the intersection of K-12 education research and data management planning, helping researchers and practitioners obtain insights that improve student outcomes through harmonized, reliable, and documented data. I am also passionate about helping others organize their data and reporting through reproducible workflows.
+I am a researcher with over ten years of experience in project coordination and supervision, as well as data management, analysis, and reporting. I am happiest working at the intersection of K-12 education research and data management planning, helping researchers and practitioners obtain insights that improve student outcomes through harmonized, reliable, and documented data. I am also passionate about helping others organize their data and reporting through reproducible workflows.
 \end{center}
 
 # Technical Skills
@@ -119,11 +119,13 @@ W.M. (2017). The utility of single-item readiness screeners in middle school. Jo
 
 # Presentations
 
+Lewis, C. (2024). Starting your Freelance Career. Guest presentation for University of Nebraska, Lincoln QQPM seminar, Online.
+
 Lewis, C. (2024). Data Cleaning for Data Sharing Using R. Invited training for NCME Annual Meeting, Philadelphia, PA. 
 
 Lewis, C. (2023). 10 Common Data Management Mistakes. Data Week, Alaska Region of Fish and Wildlife Service, Online. 
 
-Lewis, C. (2023). Cleaning Medical Data in R. R/Medicine Conference, Online.
+Lewis, C, Pileggi, S., and Higgins, P. (2023). Cleaning Medical Data in R. R/Medicine Conference, Online.
 
 Lewis, C. (2023). Essential Data Management Best Practices and Tools for NIH Compliance Panel Discussion. Center for Open Science, Online.
 
