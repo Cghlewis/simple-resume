@@ -119,6 +119,8 @@ W.M. (2017). The utility of single-item readiness screeners in middle school. Jo
 
 # Presentations
 
+Lewis, C. (2024). Data Management in Large-Scale Education Research. Presentation for the Center for Open Science, Online.
+
 Lewis, C. (2024). Starting your Freelance Career. Guest presentation for University of Nebraska, Lincoln QQPM seminar, Online.
 
 Lewis, C. (2024). Data Cleaning for Data Sharing Using R. Invited training for NCME Annual Meeting, Philadelphia, PA. 
@@ -142,8 +144,4 @@ for Missouri Prevention Science Institute, University of Missouri, Columbia, MO.
 
 Lewis, C. (2019). Cleaning Messy Data in R. Presented at R-Ladies St. Louis Meetup, Washington 
 University in St. Louis.
-
-Lewis, C. (2019). Introduction to R. Guest lecture for LaunchCode CoderGirl Data Analysis track, St. Louis, MO.
-
-Lewis, C. (2018). Survey Says: You can use Tableau to Impact School Climate. Presented at Tableau Fringe Festival APAC, Online.
 
