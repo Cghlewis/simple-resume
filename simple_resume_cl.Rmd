@@ -1,6 +1,6 @@
 ---
 name: Crystal Lewis
-email: "cgh.lewis@gmail.com"
+email: "crystal@cghlewis.com"
 github: Cghlewis
 www: cghlewis.com
 date: "`r format(Sys.time(), '%B %Y')`"
