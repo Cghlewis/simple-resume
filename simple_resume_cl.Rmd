@@ -1,7 +1,6 @@
 ---
 name: Crystal Lewis
 email: "cgh.lewis@gmail.com"
-twitter: Cghlewis
 github: Cghlewis
 www: cghlewis.com
 date: "`r format(Sys.time(), '%B %Y')`"
@@ -73,37 +72,10 @@ tribble(
   detailed_entries(role, dates, company, loc, details)
 ```
 
-# Data Manager for the Following Grants
-
-Boone County Children Services Fund: The FACE of Boone County, PI: Aaron Thompson, (2020-2024)
-
-Institute of Education Sciences: Enhancing the Capacity of Rural Schools to Identify, Prevent, and Intervene in Youth Mental Health Concerns: The National Center for Rural School Mental Health, PI: Wendy Reinke, (2019-2024) (R305C190014)
-
-Institute of Education Sciences: Efficacy study of Discipline in the Secondary Classroom, PI: Carl Sumi, (2018-2023) (R305A170040) 
-
-National Institute of Justice: Evaluation of a principal training program to promote safe & civil schools, PI: Keith Herman, (2017-2021) (2016-CK-BX-0004)
-
-Institute of Education Sciences: Evaluation of a training program to promote effective school leadership, PI: Keith Herman, (2017-2022) (R305A170180)
-
-Institute of Education Sciences: Implementing a comprehensive data-based coordinated System of care for school districts to promote youth academic success and social emotional development: A 
-researcher-practitioner partnership, PI: Wendy Reinke, (2017-2019)
-
-Institute of Education Sciences: Evaluation of a self-monitoring training program for elementary school students, PI: Aaron Thompson, (2015-2019) (R305A150517)
-
-Boone County Children’s Services Fund: Boone County Mental Health Coalition County-wide Initiative to Support School-age Youth, PI: Wendy Reinke, (2014-2020).
-
-Institute of Education Sciences: The Classroom Check-Up: Supporting teachers in classroom 
-management using a web-based coaching system, PI: Wendy Reinke, (2013–2018) (R305A130375)
-
-Institute of Education Sciences: Evaluation of a classroom management training program for 
-middle school teachers, PI: Keith Herman, (2013–2018) (R305A130143)
-
-Institute of Education Sciences: Evaluation of a Video-based Modeling Program to Promote 
-Effective Teacher Classroom Management Practices, PI: Wendy Reinke, (2010-2015) (R305A100342)
 
 # Publications
 
-Lewis, C. (2024). Data Management in Large-Scale Education Research. CRC Press.
+Lewis, C. (2024). Data Management in Large-Scale Education Research. CRC Press. doi.org/10.1201/9781032622835
 
 Cohen, D., Lewis, C.G., Eddy, C.L., Henry, L., Hodgson, C. & Huang, F.L. (2021) In-school and out-of-school suspension: Behavioral and psychological outcomes in a predominately black sample of middle school students. School Psychology Review, School Psychology Review, 52:1, 1-14.
 
@@ -119,12 +91,11 @@ W.M. (2017). The utility of single-item readiness screeners in middle school. Jo
 
 # Presentations
 
+Lewis, C. (2025). Starting your Freelance Career. Guest presentation for Stanford University, Education Data Science seminar, Online.
+
 Lewis, C. (2024). Data Management in Large-Scale Education Research. Presentation for the Center for Open Science, Online.
 
-Lewis, C. (2024). Starting your Freelance Career. Guest presentation for University of Nebraska, Lincoln QQPM seminar, Online.
-
 Lewis, C. (2024). Data Cleaning for Data Sharing Using R. Invited training for NCME Annual Meeting, Philadelphia, PA. 
-
 Lewis, C. (2023). 10 Common Data Management Mistakes. Data Week, Alaska Region of Fish and Wildlife Service, Online. 
 
 Lewis, C, Pileggi, S., and Higgins, P. (2023). Cleaning Medical Data in R. R/Medicine Conference, Online.
@@ -133,15 +104,7 @@ Lewis, C. (2023). Essential Data Management Best Practices and Tools for NIH Com
 
 Lewis, C. (2022). Data Management Workflows for Education Research Studies. Guest lecture given to a graduate research methods class at the University of Houston-Clear Lake, Online.
 
-Lewis, C. (2022). 10 Common Data Management Mistakes. Presented for the University of Washington, SMART Center, Online. 
-
 Lewis, C. (2022). 10 Common Data Management Mistakes. Presented for the Society for the Study of School Psychology, Early Career Foundation, Online.
 
 Lewis, C. (2022). A Comparison of Packages to Generate Codebooks in R. A lightning talk for R-Ladies NYC, Online.
-
-Lewis, C. (2021). Data Management in Large-Scale Education Research. Series of workshops given 
-for Missouri Prevention Science Institute, University of Missouri, Columbia, MO. 
-
-Lewis, C. (2019). Cleaning Messy Data in R. Presented at R-Ladies St. Louis Meetup, Washington 
-University in St. Louis.
 
